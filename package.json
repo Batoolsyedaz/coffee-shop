@@ -6,7 +6,9 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+
+  "build:web": "expo build:web"
   },
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
@@ -25,7 +27,8 @@
     "react-native-paper": "^5.11.4",
     "react-native-tab-view": "^3.5.2",
     "react-native-vector-icons": "^10.0.2",
-    "react-native-web": "^0.19.9"
+    "react-native-web": "^0.19.9",
+    "whatwg-url": "^14.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
