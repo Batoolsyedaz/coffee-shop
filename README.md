@@ -8,6 +8,7 @@ Top Tabs for different coffee categories.
 Nested Stack & Tab Navigation for smooth UX.
 Icons: Beautiful Ionicons for each tab.
 Coffee Categories: Espresso-based, Brewed, Cold, Instant.
+
 **🗂 Screens**
 
 __LoginScreen	User login
